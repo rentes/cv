@@ -1,2 +1,2 @@
 # cv
-My CV. Made with LaTeX.
+My CV template. Made with LaTeX.

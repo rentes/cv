@@ -5,3 +5,4 @@ My CV template. Made with LaTeX.
 
 # Requirements
 
+* https://github.com/liantze/AltaCV
